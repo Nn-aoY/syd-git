@@ -12,11 +12,13 @@ que le fichier a été modifier mais pas envoyé sur le serveur git
 ### Task 3
 On voit que l'on a modifier le fichier answer.md et que l'on a ajouté le README.md
 ### Task 4
-
+Il a créé une nouvelle branche HEAD, et quand on revient sur le commit actuel
+Il retourne sur la branche main en conservant la branche HEAD.
 ### Task 5
-
+Le dépot distant est stocké sur un serveur de Github
+si on suprimme, la version sur le serveur resterais avec la dernière version push, mais les commit en local seront suprimé
 ### Task 6
-
+Il n'a pas été mofifié 
 ## Gitgraph
 
 ### Task 7
