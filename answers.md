@@ -4,7 +4,10 @@
 ### Task 1
 
 ### Task 2
-
+- Il veut dire que l'on a mis nos informations personnelles dans le fichier answers.md
+- non 
+- le fichier answers.md possède mes informations personnelles
+- oui
 ### Task 3
 
 ### Task 4
