@@ -22,5 +22,15 @@ Il n'a pas été mofifié
 ## Gitgraph
 
 ### Task 7
+1. nom du dévloppeur 
+1. SHA identifier 
+1. message du commit 
+1. pseudo et adress mail du committeur 
+1. Tag avec la version du git 
+1. branche develop
+1. branche feature-auth 
+1. merge de la branche feature-auth vers le main
+1. merge de branche develop vers main 
+1. branche main
 
 ![Gitgraph](img/gitgraph.svg)
